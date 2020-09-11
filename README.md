@@ -6,4 +6,4 @@ We will build the Neural Style Transfer (NST) algorithm in three steps:
 Build the content cost function  𝐽𝑐𝑜𝑛𝑡𝑒𝑛𝑡(𝐶,𝐺) 
 Build the style cost function  𝐽𝑠𝑡𝑦𝑙𝑒(𝑆,𝐺) 
 Put it together to get  𝐽(𝐺)=𝛼𝐽𝑐𝑜𝑛𝑡𝑒𝑛𝑡(𝐶,𝐺)+𝛽𝐽𝑠𝑡𝑦𝑙𝑒(𝑆,𝐺) .
-https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/notebooks/week4/Neural%20Style%20Transfer/images/louvre_generated.png + https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/notebooks/week4/Neural%20Style%20Transfer/images/louvre_generated.png =https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/notebooks/week4/Neural%20Style%20Transfer/images/louvre_generated.png
+See this for the potential of this notebook: https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/notebooks/week4/Neural%20Style%20Transfer/images/louvre_generated.png 
